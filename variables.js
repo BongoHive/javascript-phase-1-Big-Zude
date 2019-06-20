@@ -1,7 +1,7 @@
 // 1
 var birthYear=1991;
 var futureYear=2091;
-age=futureYear-birthYear;
+var age=futureYear-birthYear;
 console.log(age);
 console.log(age-1);
 
